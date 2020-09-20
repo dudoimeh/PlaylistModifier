@@ -1,10 +1,3 @@
-"""
-step 1: get main playlist ID (p1)
-step 2: get playlist to add (p2)
-step 3: loop through p2 and add each song IF not in p1
-step 4: delete p2? 
-"""
-
 import json, requests
 from tkinter import *
 
